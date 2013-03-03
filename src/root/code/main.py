@@ -4,7 +4,7 @@ Created on Mar 2, 2013
 @author: rmdobbins
 '''
 
-def generatePrompt(operator, rightNumber, leftNumber):
+def generatePrompt():
         return "What is 1 + 1"
 
 if __name__ == '__main__':
